@@ -11,7 +11,7 @@ The other files were used for data processing and model training.
 * 03 make model v3 - Contains code used to train the model, as well as some of the loss logs relating to finetuning. 
 
 #### How well does it perform?
-The model hallucinates quite a bit, but it's able to generally get pretty close to the actual answer for a lot of questions, and it almost always is in the correct neighborhood.
+The model hallucinates quite a bit, but it's able to generally get pretty close to the actual answer for a lot of questions, and it almost always is in the correct neighborhood.  
 Sometimes it gives the correct answer:  
 ![An example of a correct answer](./demo_screenshots/WikiGPT_2.png)  
 Sometimes it is just slightly off. (The United Republic of Tanzania is a country in Africa, but it doesn't border Nigeria)  
